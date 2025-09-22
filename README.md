@@ -26,12 +26,11 @@ Advanced concepts in cloud and database management
 
 I believe in learning by building — every project I make is both a challenge and a story ✨
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Agamya's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
 📫 Connect with Me
 
 🐙 GitHub: Agamya-cloud
 
-💼 LinkedIn: Your LinkedIn
+💼 LinkedIn: www.linkedin.com/in/agamya-kaushal-a1a501305
 
-📧 Email: yourname@email.com
+📧 Email:agamyakaushal1@gmail.com
