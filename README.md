@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I’m Agamya
 
-<!--
-**Agamya-cloud/Agamya-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student (AI specialization)
+💡 Passionate about AI/ML, Web Development, and Problem-Solving
+🚀 Currently exploring:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤖 Artificial Intelligence & Neural Networks
+
+💻 C++ & System Design concepts (multithreading, concurrency)
+
+⚙️ Django (authentication, real-time chat apps, database management)
+
+🌱 What I’m Learning
+
+Artificial Neural Networks & Genetic Algorithms
+
+Advanced concepts in Django & Web Development
+
+AI-powered projects for social good & awareness
+
+⚡ Fun Fact
+
+I believe in learning by building — every project is both a challenge and a story ✨
+
+📫 Connect with Me
+
+GitHub: Agamya-cloud
+
+LinkedIn: www.linkedin.com/in/agamya-kaushal-a1a501305
+
+Email: agamyakaushal1@gmail.com
