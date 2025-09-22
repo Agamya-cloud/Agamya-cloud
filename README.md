@@ -2,32 +2,36 @@
 
 🎓 Computer Science Engineering student (AI specialization)
 💡 Passionate about AI/ML, Web Development, and Problem-Solving
-🚀 Currently exploring:
+🚀 Always learning, building, and exploring new technologies
 
+🛠️ Skills & Technologies
 
+Programming Languages: C, C++, Python, JavaScript
 
-🤖 Artificial Intelligence & Neural Networks
+Web Development: HTML, CSS, Django, Flask
 
-💻 C++ & System Design concepts (multithreading, concurrency)
+Databases & Cloud: SQL, Microsoft Cloud (Azure)
 
-⚙️ Django (authentication, real-time chat apps, database management)
+Other: Problem-Solving, System Design Basics
 
 🌱 What I’m Learning
 
 Artificial Neural Networks & Genetic Algorithms
 
-Advanced concepts in Django & Web Development
+Real-time applications with Django
 
-AI-powered projects for social good & awareness
+Advanced concepts in cloud and database management
 
 ⚡ Fun Fact
 
-I believe in learning by building — every project is both a challenge and a story ✨
+I believe in learning by building — every project I make is both a challenge and a story ✨
 
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Agamya's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" /> </p>
 📫 Connect with Me
 
-GitHub: Agamya-cloud
+🐙 GitHub: Agamya-cloud
 
-LinkedIn: www.linkedin.com/in/agamya-kaushal-a1a501305
+💼 LinkedIn: Your LinkedIn
 
-Email: agamyakaushal1@gmail.com
+📧 Email: yourname@email.com
